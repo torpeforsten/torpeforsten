@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋🏼
 
-<!--
-**torpeforsten/torpeforsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me🤓
 
-Here are some ideas to get you started:
+I am a third-year Computer Engineering student with a strong passion for software development. Currently, I am seeking an internship position for the upcoming spring and summer to expand my skills and gain practical experience in the industry.💻💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Learning
+I am actively honing my skills in the following technologies:
+
+- .NET
+- Java
+- JavaScript
+
+I am always eager to learn more and take on new challenges. My goal is to become a well-rounded software engineer, capable of solving complex problems and contributing to exciting projects.
+
+Let's Connect
+Feel free to reach out to me if you have any opportunities or projects you'd like to collaborate on!💪🏼
