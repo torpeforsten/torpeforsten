@@ -7,6 +7,7 @@ I am a third-year Computer Engineering student with a strong passion for softwar
 What I'm Learning
 I am actively honing my skills in the following technologies:
 
+- C#
 - .NET
 - Java
 - JavaScript
